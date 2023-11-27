@@ -1,0 +1,12 @@
+------ Build started: Project: GREngine, Configuration: Debug Win32 ------
+Compiling...
+GRHud.cpp
+c:\program files\microsoft directx 9.0 sdk (april 2005)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\dxdevelopment\3d studios\greenray-3\dllexport v3.1\greenray_engine\engine_modules\grhud.cpp(40) : warning C4129: 'T' : unrecognized character escape sequence
+c:\dxdevelopment\3d studios\greenray-3\dllexport v3.1\greenray_engine\engine_modules\grhud.cpp(45) : warning C4129: 'E' : unrecognized character escape sequence
+c:\dxdevelopment\3d studios\greenray-3\dllexport v3.1\greenray_engine\engine_modules\grhud.cpp(351) : warning C4715: 'CGRHudWindow::RenderHudOverlay' : not all control paths return a value
+Linking...
+Embedding manifest...
+Build log was saved at "file://c:\DXDevelopment\3D Studios\GreenRay-3\DLLExport v3.1\GreenRay_Engine\Debug\BuildLog.htm"
+GREngine - 0 error(s), 3 warning(s)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
